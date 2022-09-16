@@ -1,0 +1,24 @@
+2022/09/14-16:07:46.483 1ef4 Reusing MANIFEST /home/luqni/Lab/tes/whatsapp-api-tutorial/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2022/09/14-16:07:46.484 1ef4 Recovering log #55
+2022/09/14-16:07:46.808 1ef4 Reusing old log /home/luqni/Lab/tes/whatsapp-api-tutorial/.wwebjs_auth/session/Default/Local Storage/leveldb/000055.log 
+2022/09/14-16:39:47.783 1f01 Level-0 table #59: started
+2022/09/14-16:39:47.867 1f01 Level-0 table #59: 10242 bytes OK
+2022/09/14-16:39:48.275 1f01 Delete type=0 #55
+2022/09/14-23:04:47.793 5f5d Level-0 table #61: started
+2022/09/14-23:04:47.850 5f5d Level-0 table #61: 8609 bytes OK
+2022/09/14-23:04:47.901 5f5d Delete type=0 #58
+2022/09/15-05:29:30.651 3b3b Level-0 table #63: started
+2022/09/15-05:29:30.707 3b3b Level-0 table #63: 8403 bytes OK
+2022/09/15-05:29:30.791 3b3b Delete type=0 #60
+2022/09/15-05:29:30.801 3b3b Compacting 4@0 + 1@1 files
+2022/09/15-05:29:30.890 3b3b Generated table #64@0: 76 keys, 4735 bytes
+2022/09/15-05:29:30.891 3b3b Compacted 4@0 + 1@1 files => 4735 bytes
+2022/09/15-05:29:31.259 3b3b compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/15-05:29:31.260 3b3b Delete type=2 #56
+2022/09/15-05:29:31.260 3b3b Delete type=2 #59
+2022/09/15-05:29:31.260 3b3b Delete type=2 #61
+2022/09/15-05:29:31.260 3b3b Delete type=2 #54
+2022/09/15-05:29:31.260 3b3b Delete type=2 #63
+2022/09/15-16:09:05.799 39c5 Level-0 table #66: started
+2022/09/15-16:09:05.872 39c5 Level-0 table #66: 8895 bytes OK
+2022/09/15-16:09:05.956 39c5 Delete type=0 #62

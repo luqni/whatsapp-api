@@ -1,0 +1,2 @@
+1. install library TesseractOCR : composer require thiagoalessio/tesseract_ocr
+2. install Tesseract ubuntu : sudo apt install tesseract-ocr -y
